@@ -1,0 +1,13 @@
+python --any
+tensorflow --any
+flask --any
+numpy --any
+pandas --any
+
+"Command for install these libraries :-pip or pip3 install tensorflow ,flask,numpy , pandas "
+if you facing any problem then try to downgrade your tensorflow version....
+For model Details:-https://colab.research.google.com/drive/1kvmq_zrEzs3QkMIdXyM9fmt4FcIt-9uT?usp=drive_link ()
+Dataset is available in kagle name - https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+
+"""" Thanks For giving your time Enjoy the learning """"
